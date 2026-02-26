@@ -1,0 +1,13 @@
+subject,predicate,object
+Alice,knows,Bob
+Alice,knows,Bob
+Alice,likes,IceCream
+Alice,worksAt,CompanyA
+Bob,knows,Charlie
+Bob,likes,Chocolate
+Bob,worksAt,CompanyB
+Charlie,knows,Diana
+Charlie,likes,Coffee
+Charlie,worksAt,CompanyA
+Diana,worksAt,CompanyC
+Diana,likes,Tea

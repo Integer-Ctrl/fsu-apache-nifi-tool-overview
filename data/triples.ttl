@@ -1,0 +1,15 @@
+@prefix ex: <http://example.org/> .
+
+ex:Alice ex:knows ex:Ed .
+ex:Ed ex:knows ex:Charlie .
+ex:Frankie ex:knows ex:Diana .
+
+ex:Alice ex:likes ex:IceCream .
+ex:Ed ex:likes ex:Chocolate .
+ex:Frankie ex:likes ex:Coffee .
+ex:Diana ex:likes ex:Chocolate .
+
+ex:Alice ex:worksAt ex:CompanyA .
+ex:Ed ex:worksAt ex:CompanyB .
+ex:Frankie ex:worksAt ex:CompanyA .
+ex:Diana ex:worksAt ex:CompanyD .
